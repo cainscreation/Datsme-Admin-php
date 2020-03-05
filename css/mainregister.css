@@ -1,0 +1,28 @@
+.container{
+  padding: 10vh 0 0 0;
+  margin:0;
+height: 100vh;
+}
+.display{
+  margin:2vh 5vw;
+
+}
+.image{
+  text-align: center;
+}
+ .forum label{
+   padding: 1%;
+   font-size: 20px;
+   align-items: center;
+   display: none;
+ }
+
+
+.forum{
+  text-align: center;
+  width: 100%;
+  padding:3% 25%;
+}
+.already{
+  text-align: center;
+}
